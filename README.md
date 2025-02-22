@@ -1,5 +1,5 @@
-AI Medical Chatbot
-Introduction
+**AI Medical Chatbot**
+
 The AI Medical Chatbot is an intelligent healthcare assistant designed to provide users with basic medical information and guidance. Leveraging natural language processing (NLP) and machine learning, the chatbot understands user queries and offers relevant responses, aiding in preliminary medical advice. Developed using Python and NLP techniques, this project aims to enhance accessibility to healthcare-related information through an interactive chatbot interface.
 
 Try out the live demo here : [AI Medical Chatbot](https://ai-medical-chatbot-my-project.streamlit.app/)
